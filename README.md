@@ -3,6 +3,6 @@ To run this, make sure mono is installed, and run:
 
 ```
 
-mcs -out:test.exe *.cs && nono test.exe
+mcs -out:test.exe *.cs && mono test.exe
 
 ```
